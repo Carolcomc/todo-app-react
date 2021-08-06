@@ -21,13 +21,15 @@ Git, Node.js.
 Além disto é bom ter um editor para trabalhar com o código como VSCode.
 
 ### Instalação
-Vocês terão que ter o npm ou yarn instalados.
+Ter npm ou yarn instalados.
 
-npm start
+$ cd pasta-projeto
 
-Para que o projeto não tenha erro vocês precisarão instalar o React Icons
+$ npm start
 
-npm install react-icons
+Para que não ocorra nenhum erro é necessário instalar o React Icons
+
+$ npm install react-icons
 
 ### Features
 
