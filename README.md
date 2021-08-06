@@ -1,10 +1,10 @@
 # App To-do tarefas em React
 
-### Descrição
+### ✨ Descrição
 
 Aplicativo criado em React de gerenciamento de tarefas. O famoso TO-DO 
 
-### 🛠 Tecnologias
+### ✨ Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -14,13 +14,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 # Como usar
-### Pré-requisitos
+### ✨ Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 Git, Node.js.
 Além disto é bom ter um editor para trabalhar com o código como VSCode.
 
-### Instalação
+### ✨ Instalação
 Ter npm ou yarn instalados.
 
 $ cd pasta-projeto
@@ -31,17 +31,17 @@ Para que não ocorra nenhum erro é necessário instalar o React Icons
 
 $ npm install react-icons
 
-### Features
+### ✨ Features
 
 - [x] Adicionar novas tarefas
 - [x] Excluir tarefas
 - [x] Atualizar Tarefas
 
-### Veja o projeto rodando no link abaixo:
+### ✨ Veja o projeto rodando no link abaixo:
 
 https://todo-app-react-pearl.vercel.app/
 
-### Autor
+### ✨ Autor
 ---
 
 <a href="https://agenciacome.com.br/">
