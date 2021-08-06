@@ -45,7 +45,7 @@ https://todo-app-react-pearl.vercel.app/
 ---
 
 <a href="https://agenciacome.com.br/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/68873147?v=4" width="100px;" alt=""/>
+ <img style="border-radius: 80%;" src="https://avatars.githubusercontent.com/u/68873147?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Caroline Lage</b></sub></a> <a href="https://agenciacome.com.br/" title="Agência Come"></a>
 
